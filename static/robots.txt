@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imaginative-bubblegum-f2a361.netlify.app/sitemap-index.xml
